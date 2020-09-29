@@ -203,3 +203,24 @@ The returned object should have the following characteristics:
 function carMaker( /* code here */ ) {
     /* code here */
 }
+
+/* STRETCH 3:  This challenge is not related to the data above! 
+
+Write a function called carMarker 
+
+Your function should accept:
+
+(1) a single odometer argument (a number) 
+
+and return an object.
+
+The returned object should have the following characteristics:
+     it has an `odometer` property that contains the argument passed in.
+     it has a `drive` method that takes a distance as its argument, and
+         (1) causes the odometer in the object to be increased by the distance,
+         (2) returns the updated value of the `odometer`.
+*/
+
+function carMaker( /* code here */ ) {
+    /* code here */
+}
